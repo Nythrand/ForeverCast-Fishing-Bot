@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "changelog": "ForeverCast v1.0.5: automatic updates, improved audio detection, cleaner Activity Log, and stability improvements.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.5/ForeverCast-Setup-v1.0.5.exe",
-  "sha256": "c8e0416e8845ec2edc4161499d3466b173afda60e2a0290b7ede52ab96afc72c",
-  "signature": "80NiJNr9UU9pGbfGf+S5NPBScdGkvEbmElKROq/P+Iq3HbKPvrXT2Nn4qoyDl552uVUzPrR4lqP8yD7XPV/iAw=="
+  "version": "1.0.6",
+  "changelog": "Bug fixes and improvements.",
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.6/ForeverCast-Setup-v1.0.6.exe",
+  "sha256": "2fe80a0ceffcd09145a0d7599b7ad7758e74ee20244a5b1e2ea870fbcf30654d",
+  "signature": "TDT/0nWAutDHK+LYNn8bVvVFEN4Sxw2TAnA45WDjpSVDGvF9MUOUnXRcEbv4eBVc9vWlvMkSOcDFnJkhB25aAw=="
 }
