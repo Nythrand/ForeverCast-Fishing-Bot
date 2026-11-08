@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "changelog": "Bug fixes and improvements.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.6-staging/ForeverCast-Setup-nuitka-staging-v1.0.6.exe",
-  "sha256": "8a8d8526554b320b41eb302136f62111a7d80a3c6587ab35e74ef9874970cf32",
-  "signature": "NNLvzk/T0PoRam5twG/bnjCOV1oBnjZUVZpkCl+zr10HHWyvZutT4uDsRSeymI2FTQVsSwwUODrVtFsBZTxVCQ=="
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.7-Staging/ForeverCast-Setup-nuitka-staging-v1.0.7.exe",
+  "sha256": "08019956b478ae98e9bd33f0929a4cd9266ab189360f3b890a40b50d71ffe622",
+  "signature": "HP54zmLFQ4Uy+zR7xJVpZwXBxXtEfiGZUcTfY8a2L1mwjzswZMw8zDljX/P4YSAIUTQYD3Qiz9WdjF8M2qhoAA=="
 }
