@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "changelog": "Bug fixes and improvements.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.6/ForeverCast-Setup-v1.0.6.exe",
-  "sha256": "2fe80a0ceffcd09145a0d7599b7ad7758e74ee20244a5b1e2ea870fbcf30654d",
-  "signature": "TDT/0nWAutDHK+LYNn8bVvVFEN4Sxw2TAnA45WDjpSVDGvF9MUOUnXRcEbv4eBVc9vWlvMkSOcDFnJkhB25aAw=="
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.7/ForeverCast-Setup-v1.0.7.exe",
+  "sha256": "f88412eda1733964d56ea5e0d9050699262059cbbb671aa379d265126219bd57",
+  "signature": "d92iH38KCBXrfVGTTP2OYuaK3v5wRb4+7CUk9RgP11+PdjJw+Ro8n0r2pVHxvGbo5g7HUljJTTze+4JmFVolDQ=="
 }
