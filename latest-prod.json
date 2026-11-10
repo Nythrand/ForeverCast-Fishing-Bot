@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "changelog": "What's New:\n\u2022 Session time and catches now reset on restart.\n\u2022 Time and Catch limits can both be disabled.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.8/ForeverCast-Setup-v1.0.8.exe",
-  "sha256": "491fd1cf8fdfd093691e270611ad3e7f7c909a62c1d1e7b1714425ff201e99fb",
-  "signature": "zRsnbmawNk2uzZiCb5rg67NaTR5SiBU2A2vkRi86hJGnO/v2wGQAsR7n6Tssj1fYn5soOAYBMg7TwdmHkQVaDQ=="
+  "version": "1.0.9",
+  "changelog": "Added a Paste button to the license activation screen.",
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.9/ForeverCast-Setup-v1.0.9.exe",
+  "sha256": "d5f66975218e0fb77b9c24d43b9075227ddebd10f9cdf31d07fdef4ff13b6cc4",
+  "signature": "zm4NN7az5GcgyZaFWBiIyk1sr4TvEUSQo221a7V39qMRCGLFEg1BoVFnAHpJ74FgPwsq/IPEy3S6gNTsum2NAg=="
 }
