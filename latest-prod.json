@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "changelog": "Added a Paste button to the license activation screen.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.9/ForeverCast-Setup-v1.0.9.exe",
-  "sha256": "d5f66975218e0fb77b9c24d43b9075227ddebd10f9cdf31d07fdef4ff13b6cc4",
-  "signature": "zm4NN7az5GcgyZaFWBiIyk1sr4TvEUSQo221a7V39qMRCGLFEg1BoVFnAHpJ74FgPwsq/IPEy3S6gNTsum2NAg=="
+  "version": "1.0.10",
+  "changelog": "Updated HWID reset cooldown to 30 minutes.",
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.10/ForeverCast-Setup-v1.0.10.exe",
+  "sha256": "19333a5a2fa92f749154c55710e241ebd921b91c4a28ec267a3a033eb5b87cdb",
+  "signature": "kdI1tA8z+AggVSEMQCzZ2Rm6+7/yF9agfzLAMxl99Sq+L+sz/6pjZb4iv4O/48iDEHjbOsL11CXaQE2rBvU9BQ=="
 }
