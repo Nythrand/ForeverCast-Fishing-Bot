@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "changelog": "Updated HWID reset cooldown to 30 minutes.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.10/ForeverCast-Setup-v1.0.10.exe",
-  "sha256": "19333a5a2fa92f749154c55710e241ebd921b91c4a28ec267a3a033eb5b87cdb",
-  "signature": "kdI1tA8z+AggVSEMQCzZ2Rm6+7/yF9agfzLAMxl99Sq+L+sz/6pjZb4iv4O/48iDEHjbOsL11CXaQE2rBvU9BQ=="
+  "version": "1.0.11",
+  "changelog": "ForeverCast now automatically requests administrator privileges at startup.",
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.11/ForeverCast-Setup-v1.0.11.exe",
+  "sha256": "6573abdcfaff06debb09195d570bd132adf4dd60b288ba165f023170c952030e",
+  "signature": "dxTC7xgVdSc32ttP01i5A7cUvsDLGsEaxw71iz4ZJBDGQj7iPwYK6R0o5kr5WkICNfOpMsJBiifFINF1cIU2Ag=="
 }
