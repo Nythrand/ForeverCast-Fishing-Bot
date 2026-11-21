@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "changelog": "ForeverCast now automatically requests administrator privileges at startup.",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.11/ForeverCast-Setup-v1.0.11.exe",
-  "sha256": "6573abdcfaff06debb09195d570bd132adf4dd60b288ba165f023170c952030e",
-  "signature": "dxTC7xgVdSc32ttP01i5A7cUvsDLGsEaxw71iz4ZJBDGQj7iPwYK6R0o5kr5WkICNfOpMsJBiifFINF1cIU2Ag=="
+  "version": "1.0.12",
+  "changelog": "Background fishing, bag detection, auto lure, instant recast on shallow water, Daba input support, WoW instance selector",
+  "download_url": "https://pub-607263e02f8049338f75846fd61cded6.r2.dev/ForeverCast-Setup-v1.0.12.exe",
+  "sha256": "0ad7c5dbfb2db1e0eea9caf5ff0bb33305018ba755bdabe0c0f527b559de578f",
+  "signature": "yvmXE96yg1YbWuLX1P+5WoWHJXF1ne4hY193rSK7X3OlaBXaVroMvi1aOV8Y9JeVhsRkmoKnj7mcHiXSQAqgBA=="
 }
