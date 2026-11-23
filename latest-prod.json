@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "changelog": "Background fishing, bag detection, auto lure, instant recast on shallow water, Daba input support, WoW instance selector",
-  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.0.12/ForeverCast-Setup-v1.0.12.exe",
-  "sha256": "0ad7c5dbfb2db1e0eea9caf5ff0bb33305018ba755bdabe0c0f527b559de578f",
-  "signature": "iEpzr3KUtXxBl3XQShlKyMC1m1nSBVPVj+IDUGfY/dT/CjKVOCyiiW+MRgzD3DpmY7PUh5AIO1LqMe+lbG+7CQ=="
+  "version": "1.1.0",
+  "changelog": "Camper's Lure + FCBeacon fix + Cloudflare updates + reliable addon install",
+  "download_url": "https://github.com/Nythrand/ForeverCast-Fishing-Bot/releases/download/v1.1.0/ForeverCast-Setup-v1.1.0.exe",
+  "sha256": "a4707e642aff7b7e046b1d8af8143485395f3a53afab9dde8397a3fe28fe2c72",
+  "signature": "oqjLNfG7J/NMNv0H1kqndDkFhZY4YEZHGx1y7M7NmMbv03+03XK7YUqKudFqGC/Lv/QZhiBsgK1Fh+m0xSDhBg=="
 }
